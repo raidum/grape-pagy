@@ -6,6 +6,7 @@ require 'pagy/extras/countless'
 require 'pagy/extras/headers'
 require 'pagy/extras/items'
 require 'pagy/extras/overflow'
+require 'pagy/extras/searchkick'
 
 module Grape
   module Pagy
